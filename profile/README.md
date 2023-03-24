@@ -1,5 +1,9 @@
-# Galette Cidre CTF
+<h1 align="center">Galette Cidre CTF</h1>
+<h2 align="center">ENSIBS</h2>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/icons/827467869649764362/f7633e4843c1317e7e051177ecfbc27e.webp?size=96">
+  <img src="https://i.ibb.co/d0xNX5M/3dgifmaker64411.gif" width="500">
 </div>
+
+
+
